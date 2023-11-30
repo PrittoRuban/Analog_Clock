@@ -1,3 +1,9 @@
+html{
+  background: linear-gradient(300deg, #799dd3, #c4fff3, #00bfff);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
 .gradient-background {
   background: linear-gradient(300deg, #00bfff, #c4fff3, #799dd3);
   background-size: 180% 180%;
