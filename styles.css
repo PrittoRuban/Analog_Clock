@@ -156,4 +156,18 @@ html{
   width: 45%;
   height: 2px;
 }
-    
+
+/* Media Queries */
+@media (max-width: 768px) {
+  .clock {
+    width: 20rem;
+    height: 20rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .clock {
+    width: 15rem;
+    height: 15rem;
+  }
+}
